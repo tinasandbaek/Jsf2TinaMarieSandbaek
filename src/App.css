@@ -1,0 +1,12 @@
+.card {
+    width: 200px;
+    border: 2px solid grey;
+}
+
+.card img {
+    width: 100px;
+}
+
+h1 {
+    font-size: 19px;
+}
